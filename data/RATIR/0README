@@ -1,0 +1,3 @@
+This folder contains the raw .dat files from the RATIR sample. 
+Of the 44 SN in the sample there are 38 in this folder. The other 6 are removed since they have no J-band data.
+See /fits/RATIR/fitting_notes for a list of these SN and further information on the fittings.
