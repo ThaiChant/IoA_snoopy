@@ -1,0 +1,6 @@
+Files code for what a file ends with:
+_JandT.snpy = MAX_model CSP+CALIBRATOR fits for Hubble plot/DM.
+_EBV2.snpy  = EBV_model2 CSP+CALIBRATOR fits for Hubble plot/DM.
+_MAX_RAT.snpy = MAX_model RATIR fits for Hubble plot.
+_EBV2_RAT.snpy = EBV_model2 RATIR fits for Hubble plot.
+_COLOR_RAT.snpy = EBV_model2 RATIR fits to determine EBVhost values.
