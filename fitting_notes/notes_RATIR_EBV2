@@ -1,0 +1,31 @@
+No J-band data
+17lf
+14bpz
+13daw
+16fu
+13dzm
+14eje
+
+Notes on SN kept in fits
+13asv B60 removed
+14bpo poor visual fit
+14aje fitted in r-band and without Jspm (1 datum)
+13ayw less than 1 DOF (2 J-band data points)
+13ez  fitted in r-band not B-band
+13aro fitted in V-band not B-band and large error
+14fpb poor visual fit
+14yy  fitted in R48 r-band as B-band and other r-band filters not suitable
+13ahk fitted in r-band
+14jj  fitted in r-band and without Jspm poor visual fit
+13ft  fitted in r-band
+13s   fitted in r-band (maybe poor visual fit)
+
+Notes on SN removed from fitting
+14yw  1 J-band data point
+13anh 2 J-band data points
+14apg 4 J-band data with large errors
+14bqg poor J-band coverage
+14ale poor J-band coverage
+13abc 2 J-band data points
+13crp 2 J-band data points
+13bkw 1 J-band data point
