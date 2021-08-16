@@ -1,0 +1,85 @@
+Numbers of SN using each fitting technique divided into categories
+97 = total SN with Jband obs and in Burns 2018 sample
+
+14 = SN with 5 or less J-band observations (not excluded simply noted)
+SN2005ag = 4
+SN2006ob = 2
+SN2008bi = 4
+SN2006ej = 5
+SN2004gu = 3
+SN2008O  = 5
+SN2008cf = 1
+SN2005na = 5
+SN2008hu = 5
+SN2005am = 4
+SN2007jd = 3
+SN2008fu = 3
+SN2008bt = 1
+SN2009le = 4
+
+SN with first detection before +5 days
+74/92 (80.4%) = max_model
+75/91 (82.4%) = EBV_model2
+
+SN with first detection before +10 days
+82/92 (89.1%) = max_model
+81/91 (89.0%) = EBV_model2
+
+
+
+
+92 = SN on Hubble plot MAX MODEL s.fit(["B"]) --> s.fit(["J"],Tmax=s.Tmax)
+
+5 = SN that could not be fit
+SN2006ob Only 1 J-band datum
+SN2008cf Only 1 J-band datum
+SN2008fu Only 3 data points
+SN2008bt only 1 Jband datum and unable to fit in B-band
+SN2009al Only 1 J-band fit, fitting in only Jrc2 screws analysis
+
+ = Remaining SN that could be fit but fit is visually poor
+SN2006bd fitted in i-band instead of B-band
+SN2006br fitted in g-band instead of B-band
+maybe SN2008bi
+SN2008hu Poor visual fitting
+maybe SN2005ag
+maybe SN2005na
+maybe SN2007jd
+
+5 = Remaining SN fitted with other filters and should be questioned
+SN2005ke Fitted with r instead of B
+SN2008bi Fitted with V instead of B
+SN2007st Fitted with i instead of B
+SN2006mr Fitted with V instead of B
+SN2008cc Fitted with V instead of B
+
+
+
+
+91 = SN on Hubble plot EBV_model2 s.fit(["B"]) --> s.fit(["J"],Tmax=s.Tmax)
+
+6 = SN that could not be fit
+SN2006ob Only 1 J-band datum
+SN2008cf Only 1 J-band datum
+SN2008fu Only 3 data points
+SN2008bt only 1 Jband datum and unable to fit in B-band
+SN2008bi Data too close together
+SN2009al Only 1 J-band fit, fitting in only Jrc2 screws analysis
+
+10 = Remaining SN that could be fit but fit is visually poor
+SN2006bd fitted in i-band instead of B-band
+SN2005A  fitted in i-band instead of B-band
+SN2006br fitted in g-band instead of B-band
+SN2009al Fitted using Jrc2 not J in 2nd fit but fit is questionable
+SN2005hj Extremely large error from J-band observations very close together
+SN2009F  Poor visual fitting
+SN2008hu Poor visual fitting
+SN2005ag Not enough data around peak
+SN2005na Not enough data around peak
+SN2007jd Not enough data around peak
+
+4 = Remaining SN fitted with other filters and should be questioned
+SN2007st Fitted with V instead of B
+SN2006mr Fitted with V instead of B
+SN2007bm Fitted with V instead of B
+SN2008cc Fitted with V instead of B
