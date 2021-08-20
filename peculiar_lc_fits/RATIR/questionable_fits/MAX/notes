@@ -1,1 +1,14 @@
-sgsdgsh
+Notes on questionable light curves
+13aro fitted in V-band not B-band and large error, 6 data points, some points have large errors, Jmax error is very large; 1.55
+13azs points not fitted well, especially long after peak, Jmax error of 0.16
+13ddg 3 data points, large errors, Jmax error is very large; 1.41
+13dym No data after peak (if Tmax is correct), patches of data very close together, Jmax error of 0.12
+13s   fitted in r-band (maybe poor visual fit), strange double peak lc fitting, probably from r-band fitting, Jmax error of 0.13
+14aje fitted in r-band and without Jspm (1 datum), points very close to peak compared to other bands, Jmax error of 0.02
+14atg poor fitting around peak, large Jmax error; 2.45
+14bbr No data close to peak, very poor fitting in HAWKIJ, large Jmax error; 0.74
+14bpo points have extremely large errors, no data near peak, large Jmax error; 0.88
+14deb poor fitting of middle observations, Jmax error; 0.09
+14fpb 3 J-band observations, poor fitting of last observation, large Jmax error; 1.99
+14yy  fitted in R48 r-band as B-band and other r-band filters not suitable, 3 J-band observations,very close together, Jmax error; 0.12
+13ayw 
