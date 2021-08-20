@@ -1,1 +1,11 @@
-afafa
+Notes on SN removed from fitting
+14yw  1 J-band data point, poor B-band coverage, good r-band coverage
+13anh 2 J-band data points, large errors and close together
+14apg 4 J-band data with large errors
+14bqg 1 Jspm, 2 J2m observations
+13abc 2 J-band data points, very spread out, large errors
+13bkw 1 J-band data point large error
+
+Notes on SN initially removed but now fitted successfully (kind of)
+14ale fitted in Vs-band initially
+13crp fitted in V-band 2 J-band data points, large errors, very close together, zero error, less than 1 DOF
