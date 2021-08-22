@@ -31,7 +31,7 @@ SN with first detection before +10 days
 92 = SN on Hubble plot MAX MODEL s.fit(["B"]) --> s.fit(["J"],Tmax=s.Tmax)
 
 5 = SN that could not be fit
-SN2006ob Only 1 J-band datum
+SN2006ob Only 2 J-band data points
 SN2008cf Only 1 J-band datum
 SN2008fu Only 3 data points
 SN2008bt only 1 Jband datum and unable to fit in B-band
