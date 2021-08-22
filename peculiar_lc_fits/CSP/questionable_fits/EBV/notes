@@ -1,0 +1,19 @@
+Notes on questionable fits
+06os Poor fitting at early and late observations, Jmax error; 0.05
+08O  Poor fitting of 1st observation, Jmax error; 0.08
+06bd Poor fitting of 1st observation, Jmax error; 0.06
+09ag Data starts very far after the primary peak, Jmax error; 0.02
+08hu large time jump between data points, 1 point doesn't agree with fitting, very large Jmax error; 2.63
+05M  generally queationable fitting, Jmax error; 0.10
+06ej lack of data, large Jmax error; 0.30
+08gg poor fitting at local minima, large Jmax error; 0.36
+05hj very small spread in time for all observations, ridiculous Jmax error; 203
+07jd lack of data, small spread in data, large Jmax error; 0.64
+07jg poor fitting of later points, Jmax error; 0.09
+09le data only way before peak, Jmax error; 0.08
+07ax poor fitting of slow decline, worse as time goes on, Jmax error; 0.08
+09F Terrible fitting in general, Tmax value completely wrong, very large Jmax error; 3.48
+09al possibly poor fitting, large Jmax error; 0.61
+05A  poor fitting of local minima, Jmax error; 0.12
+08C  poor fitting at local minima, Jmax error; 0.08
+05am lack of data, particularly around peak, Jmax error; 0.05
